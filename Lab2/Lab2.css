@@ -1,0 +1,40 @@
+h1{
+  background-color: black;
+  font-family: 'Times New Roman', Times, serif;
+}
+h2{
+  font-size: 225%;
+}
+footer{
+  background-color: black;
+  text-align: center;
+  color: white;
+}
+#title{
+ color: white;
+
+}
+#login{
+  color:orange;
+  font-size: 75%;
+}
+#bottom{
+  color: gray;
+}
+.pages{
+  color: green;
+  font-size: 75%;
+}
+.titles
+{
+  text-align: center;
+ 
+}
+.desc
+{
+  color: gray;
+}
+.articles
+{
+  font-size: 115%;
+}
